@@ -30,3 +30,19 @@ span{
     font-size:  500%;
     font-weight: bolder;
 }
+.column{
+    float: left;
+    width: 30%;
+    height: 30%;
+
+}
+.row:after{
+    clear: both;
+    display: table;
+    content: both;
+}
+#cont{
+    background-color: rgb(14, 13, 13);
+    color: white;
+    padding-top: 2%;
+}
