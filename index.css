@@ -1,6 +1,7 @@
 body{
     text-decoration: none;
     text-align: center;
+    font-family: 'Acme', sans-serif;
 }
 nav{
     background-color: gray;
