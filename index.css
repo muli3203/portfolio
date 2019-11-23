@@ -2,6 +2,7 @@ body{
     text-decoration: none;
     text-align: center;
     font-family: 'Acme', sans-serif;
+    background-color: pink;
 }
 nav{
     background-color: gray;
@@ -26,14 +27,22 @@ li a:hover{
     color: springgreen;
     background-color: wheat;
 }
+.img{
+    border-radius: 50%;
+}
 span{
     font-size:  500%;
     font-weight: bolder;
 }
 .column{
     float: left;
-    width: 30%;
-    height: 30%;
+    width: 27%;
+    background-color: rgb(238, 124, 25);
+    height: 70%;
+    margin-right: 3%;
+    margin-left: 3%;
+    justify-content: space-around;
+    padding-top: 1%;
 
 }
 .row:after{
@@ -45,4 +54,7 @@ span{
     background-color: rgb(14, 13, 13);
     color: white;
     padding-top: 2%;
+}
+#proj{
+    margin-bottom: 10%;
 }
