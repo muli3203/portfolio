@@ -1,10 +1,10 @@
-#PORTFOLIO
-##Description
+# PORTFOLIO
+## Description
 
 This is a portfolio that give more information onmy progress this past few years
 
-##Links
+## Links
 
 
-##Authors INFO
+## Authors INFO
  Muli Cheryl muli3203@gmail.com
