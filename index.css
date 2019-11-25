@@ -28,7 +28,7 @@ li a:hover{
     background-color: wheat;
 }
 .img{
-    border-radius: 50%;
+ border-radius: 50%; 
 }
 span{
     font-size:  500%;
@@ -50,11 +50,53 @@ span{
     display: table;
     content: both;
 }
+#proj{
+    margin-bottom: 10%;
+}
+
+* {
+    box-sizing:border-box
+}
+
+.container {
+  width: 100%;
+  background-color: #ddd; 
+}
+
+.skills {
+  text-align: right; 
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {
+    width: 90%;
+     background-color: #4CAF50;
+    }
+.css {
+    width: 80%;
+     background-color: #4CAF50;
+    } 
+.js {
+    width: 65%; 
+    background-color: #4CAF50;
+} 
+.ang {
+    width: 60%; 
+    background-color: #4CAF50;
+}
 #cont{
     background-color: rgb(14, 13, 13);
     color: white;
     padding-top: 2%;
+    bottom: 0;
+    margin-bottom: -2%;
+    width: 100%;
+    justify-content: space-evenly;
 }
-#proj{
-    margin-bottom: 10%;
+.fa{
+    border: 1px solid white;
+    border-radius: 0%;
+    
 }
